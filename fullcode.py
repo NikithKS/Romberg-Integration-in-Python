@@ -73,7 +73,7 @@ y3=h4*s/2
 print("y3=",y3)
 
 
-#FInal calculation
+#Final calculation
 r11=(4*y1-y0)/3
 r12=(4*y2-y1)/3
 r13=(4*y3-y2)/3
